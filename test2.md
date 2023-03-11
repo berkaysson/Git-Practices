@@ -1,1 +1,1 @@
-trying to undestand git merge conflict
+trying to solve merge conflict.
